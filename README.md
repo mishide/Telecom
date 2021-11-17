@@ -1,5 +1,5 @@
 # Telecom<br>
-<h2>Capture Customer Churn using ML model/h2>
+Capture Customer Churn using ML model
 <br><br>
 This folder contains data and python notebooks that explores and builds ML models to predict customer churn for a telecom company.
 
