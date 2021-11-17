@@ -1,0 +1,100 @@
+1 rev_Mean Mean monthly revenue (charge amount)
+2 mou_Mean Mean number of monthly minutes of use
+3 totmrc_Mean Mean total monthly recurring charge
+4 da_Mean Mean number of directory assisted calls
+5 ovrmou_Mean Mean overage minutes of use
+6 ovrrev_Mean Mean overage revenue
+7 vceovr_Mean Mean revenue of voice overage
+8 datovr_Mean Mean revenue of data overage
+9 roam_Mean Mean number of roaming calls
+10 change_mou Percentage change in monthly minutes of use vs previous three month average
+11 change_rev Percentage change in monthly revenue vs previous three month average
+12 drop_vce_Mean Mean number of dropped (failed) voice calls
+13 drop_dat_Mean Mean number of dropped (failed) data calls
+14 blck_vce_Mean Mean number of blocked (failed) voice calls
+15 blck_dat_Mean Mean number of blocked (failed) data calls
+16 unan_vce_Mean Mean number of unanswered voice calls
+17 unan_dat_Mean Mean number of unanswered data calls
+18 plcd_vce_Mean Mean number of attempted voice calls placed
+19 plcd_dat_Mean Mean number of attempted data calls placed
+20 recv_vce_Mean Mean number of received voice calls
+21 recv_sms_Mean N
+22 comp_vce_Mean Mean number of completed voice calls
+23 comp_dat_Mean Mean number of completed data calls
+24 custcare_Mean Mean number of customer care calls
+25 ccrndmou_Mean Mean rounded minutes of use of customer care calls
+26 cc_mou_Mean Mean unrounded minutes of use of customer care (see CUSTCARE_MEAN) calls
+27 inonemin_Mean Mean number of inbound calls less than one minute
+28 threeway_Mean Mean number of three way calls
+29 mou_cvce_Mean Mean unrounded minutes of use of completed voice calls
+30 mou_cdat_Mean Mean unrounded minutes of use of completed data calls
+31 mou_rvce_Mean Mean unrounded minutes of use of received voice calls
+32 owylis_vce_Mean Mean number of outbound wireless to wireless voice calls
+33 mouowylisv_Mean Mean unrounded minutes of use of outbound wireless to wireless voice calls
+34 iwylis_vce_Mean N
+35 mouiwylisv_Mean Mean unrounded minutes of use of inbound wireless to wireless voice calls
+36 peak_vce_Mean Mean number of inbound and outbound peak voice calls
+37 peak_dat_Mean Mean number of peak data calls
+38 mou_peav_Mean Mean unrounded minutes of use of peak voice calls
+39 mou_pead_Mean Mean unrounded minutes of use of peak data calls
+40 opk_vce_Mean Mean number of off-peak voice calls
+41 opk_dat_Mean Mean number of off-peak data calls
+42 mou_opkv_Mean Mean unrounded minutes of use of off-peak voice calls
+43 mou_opkd_Mean Mean unrounded minutes of use of off-peak data calls
+44 drop_blk_Mean Mean number of dropped or blocked calls
+45 attempt_Mean Mean number of attempted calls
+46 complete_Mean Mean number of completed calls
+47 callfwdv_Mean Mean number of call forwarding calls
+48 callwait_Mean Mean number of call waiting calls
+49 churn Instance of churn between 31-60 days after observation date
+50 months Total number of months in service
+51 uniqsubs Number of unique subscribers in the household
+52 actvsubs Number of active subscribers in household
+53 new_cell New cell phone user
+54 crclscod Credit class code
+55 asl_flag Account spending limit
+56 totcalls Total number of calls over the life of the customer
+57 totmou Total minutes of use over the life of the cus
+58 totrev Total revenue
+59 adjrev Billing adjusted total revenue over the life of the customer
+60 adjmou Billing adjusted total minutes of use over the life of the customer
+61 adjqty Billing adjusted total number of calls over the life of the customer
+62 avgrev Average monthly revenue over the life of the customer
+63 avgmou Average monthly minutes of use over the life of the customer
+64 avgqty Average monthly number of calls over the life of the customer
+65 avg3mou Average monthly minutes of use over the previous three months
+66 avg3qty Average monthly number of calls over the previous three months
+67 avg3rev Average monthly revenue over the previous three months
+68 avg6mou Average monthly minutes of use over the previous six months
+69 avg6qty Average monthly number of calls over the previous six months
+70 avg6rev Average monthly revenue over the previous six months
+71 prizm_social_one Social group letter only
+72 area Geogrpahic area
+73 dualband Dualband
+74 refurb_new Handset: refurbished or new
+75 hnd_price Current handset price
+76 phones Number of handsets issued
+77 models Number of models issued
+78 hnd_webcap Handset web capability
+79 truck Truck indicator
+80 rv RV indicator
+81 ownrent Home owner/renter status
+82 lor Length of residence
+83 dwlltype Dwelling Unit type
+84 marital Marital Status
+85 adults Number of adults in household
+86 infobase InfoBase match
+87 income Estimated income
+88 numbcars Known number of vehicles
+89 HHstatin Premier household status indicator
+90 dwllsize Dwelling size
+91 forgntvl Foreign travel dummy variable
+92 ethnic Ethnicity roll-up code
+93 kid0_2 Child 0 - 2 years of age in household
+94 kid3_5 Child 3 - 5 years of age in household
+95 kid6_10 Child 6 - 10 years of age in household
+96 kid11_15 Child 11 - 15 years of age in household
+97 kid16_17 Child 16 - 17 years of age in household
+98 creditcd Credit card indicator
+99 eqpdays Number of days (age) of current equipment
+100 Customer_ID N
